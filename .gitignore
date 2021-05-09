@@ -3,3 +3,7 @@ index3/
 news/
 articles_merged.csv
 entities.csv
+model.pkl
+processed_articles.csv
+tfidf.pkl
+index__/
